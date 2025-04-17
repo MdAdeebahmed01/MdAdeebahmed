@@ -1,12 +1,4 @@
-👋 About Me
-Hi there! I'm Mohammed Adeeb Ahmed, a passionate and curious Computer Science student and enthusiastic developer, always eager to explore new technologies and solve real-world problems. 
-with a strong interest in Web Development and Software Engineering.
 
-🎓 I’m a recent Computer Science graduate from Vaagdevi college of Engineering.
-💻 I enjoy building projects that solve real-world problems.
-🌱 I'm currently learning JavaScript and Web Technologies.
-📈 I'm aiming to grow as a Web Developer.
-🤝 I’m open to collaborating on exciting and impactful projects.
 
 # 💫 About Me:
 Hi there!👋 I'm Mohammed Adeeb Ahmed, a passionate and curious Computer Science student and enthusiastic developer, always eager to explore new technologies and solve real-world problems. <br>with a strong interest in Web Development and Software Engineering.<br>🎓 I’m a recent Computer Science graduate from Vaagdevi college of Engineering.<br>💻 I enjoy building projects that solve real-world problems.<br>🌱 I'm currently learning JavaScript and Web Technologies.<br>📈 I'm aiming to grow as a Web Developer.<br>🤝 I’m open to collaborating on exciting and impactful projects.
